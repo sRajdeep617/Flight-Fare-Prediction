@@ -1,0 +1,6 @@
+Flask==2.0.3
+flask-cors
+pandas
+pickle-mixin
+scikit-learn
+numpy
